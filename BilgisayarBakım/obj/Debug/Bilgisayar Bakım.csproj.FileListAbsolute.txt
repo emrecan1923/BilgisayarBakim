@@ -1,0 +1,89 @@
+C:\Users\Emre\source\repos\Bilgisayar Bakım\Bilgisayar Bakım\bin\Debug\Bilgisayar Bakım.exe.config
+C:\Users\Emre\source\repos\Bilgisayar Bakım\Bilgisayar Bakım\bin\Debug\Bilgisayar Bakım.exe
+C:\Users\Emre\source\repos\Bilgisayar Bakım\Bilgisayar Bakım\bin\Debug\Bilgisayar Bakım.pdb
+C:\Users\Emre\source\repos\Bilgisayar Bakım\Bilgisayar Bakım\obj\Debug\Bilgisayar Bakım.csprojAssemblyReference.cache
+C:\Users\Emre\source\repos\Bilgisayar Bakım\Bilgisayar Bakım\obj\Debug\Bilgisayar_Bakım.Form1.resources
+C:\Users\Emre\source\repos\Bilgisayar Bakım\Bilgisayar Bakım\obj\Debug\Bilgisayar_Bakım.Properties.Resources.resources
+C:\Users\Emre\source\repos\Bilgisayar Bakım\Bilgisayar Bakım\obj\Debug\Bilgisayar Bakım.csproj.GenerateResource.cache
+C:\Users\Emre\source\repos\Bilgisayar Bakım\Bilgisayar Bakım\obj\Debug\Bilgisayar Bakım.csproj.CoreCompileInputs.cache
+C:\Users\Emre\source\repos\Bilgisayar Bakım\Bilgisayar Bakım\obj\Debug\Bilgisayar Bakım.exe
+C:\Users\Emre\source\repos\Bilgisayar Bakım\Bilgisayar Bakım\obj\Debug\Bilgisayar Bakım.pdb
+C:\Users\Emre\source\repos\BilgisayarBakım\BilgisayarBakım\obj\Debug\Bilgisayar Bakım.csprojAssemblyReference.cache
+C:\Users\Emre\source\repos\BilgisayarBakım\BilgisayarBakım\obj\Debug\Bilgisayar_Bakım.Form1.resources
+C:\Users\Emre\source\repos\BilgisayarBakım\BilgisayarBakım\obj\Debug\Bilgisayar_Bakım.Properties.Resources.resources
+C:\Users\Emre\source\repos\BilgisayarBakım\BilgisayarBakım\obj\Debug\Bilgisayar Bakım.csproj.GenerateResource.cache
+C:\Users\Emre\source\repos\BilgisayarBakım\BilgisayarBakım\obj\Debug\Bilgisayar Bakım.csproj.CoreCompileInputs.cache
+C:\Users\Emre\source\repos\BilgisayarBakım\BilgisayarBakım\obj\Debug\Bilgisayar Bakım.exe
+C:\Users\Emre\source\repos\BilgisayarBakım\BilgisayarBakım\obj\Debug\Bilgisayar Bakım.pdb
+C:\Users\Emre\source\repos\BilgisayarBakım\BilgisayarBakım\bin\Debug\Bilgisayar Bakım.exe.config
+C:\Users\Emre\source\repos\BilgisayarBakım\BilgisayarBakım\bin\Debug\Bilgisayar Bakım.exe
+C:\Users\Emre\source\repos\BilgisayarBakım\BilgisayarBakım\bin\Debug\Bilgisayar Bakım.pdb
+C:\Users\Emre\source\repos\BilgisayarBakım\BilgisayarBakım\bin\Debug\AntiVirusScanner.dll
+C:\Users\Emre\source\repos\BilgisayarBakım\BilgisayarBakım\bin\Debug\MetroFramework.dll
+C:\Users\Emre\source\repos\BilgisayarBakım\BilgisayarBakım\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Emre\source\repos\BilgisayarBakım\BilgisayarBakım\bin\Debug\AntiVirusScanner.xml
+C:\Users\Emre\source\repos\BilgisayarBakım\BilgisayarBakım\obj\Debug\Bilgisayar Bakım.csproj.CopyComplete
+C:\Users\Emre\source\repos\BilgisayarBakım\BilgisayarBakım\obj\Debug\Bilgisayar_Bakım.form2.resources
+C:\Users\Emre\OneDrive\Belgeler\Bilişim\Projeler\BilgisayarBakım\BilgisayarBakım\obj\Debug\Bilgisayar Bakım.exe
+C:\Users\Emre\OneDrive\Belgeler\Bilişim\Projeler\BilgisayarBakım\BilgisayarBakım\obj\Debug\Bilgisayar Bakım.pdb
+C:\Users\Emre\OneDrive\Belgeler\Bilişim\Projeler\BilgisayarBakım\BilgisayarBakım\bin\Debug\Bilgisayar Bakım.exe.config
+C:\Users\Emre\OneDrive\Belgeler\Bilişim\Projeler\BilgisayarBakım\BilgisayarBakım\bin\Debug\Bilgisayar Bakım.exe
+C:\Users\Emre\OneDrive\Belgeler\Bilişim\Projeler\BilgisayarBakım\BilgisayarBakım\bin\Debug\Bilgisayar Bakım.pdb
+C:\Users\Emre\OneDrive\Belgeler\Bilişim\Projeler\BilgisayarBakım\BilgisayarBakım\bin\Debug\AntiVirusScanner.dll
+C:\Users\Emre\OneDrive\Belgeler\Bilişim\Projeler\BilgisayarBakım\BilgisayarBakım\bin\Debug\MetroFramework.dll
+C:\Users\Emre\OneDrive\Belgeler\Bilişim\Projeler\BilgisayarBakım\BilgisayarBakım\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Emre\OneDrive\Belgeler\Bilişim\Projeler\BilgisayarBakım\BilgisayarBakım\bin\Debug\AntiVirusScanner.xml
+C:\Users\Emre\OneDrive\Belgeler\Bilişim\Projeler\BilgisayarBakım\BilgisayarBakım\obj\Debug\Bilgisayar Bakım.csproj.AssemblyReference.cache
+C:\Users\Emre\OneDrive\Belgeler\Bilişim\Projeler\BilgisayarBakım\BilgisayarBakım\obj\Debug\Bilgisayar_Bakım.Form1.resources
+C:\Users\Emre\OneDrive\Belgeler\Bilişim\Projeler\BilgisayarBakım\BilgisayarBakım\obj\Debug\Bilgisayar_Bakım.form2.resources
+C:\Users\Emre\OneDrive\Belgeler\Bilişim\Projeler\BilgisayarBakım\BilgisayarBakım\obj\Debug\Bilgisayar_Bakım.Properties.Resources.resources
+C:\Users\Emre\OneDrive\Belgeler\Bilişim\Projeler\BilgisayarBakım\BilgisayarBakım\obj\Debug\Bilgisayar Bakım.csproj.GenerateResource.cache
+C:\Users\Emre\OneDrive\Belgeler\Bilişim\Projeler\BilgisayarBakım\BilgisayarBakım\obj\Debug\Bilgisayar Bakım.csproj.CoreCompileInputs.cache
+C:\Users\Emre\OneDrive\Belgeler\Bilişim\Projeler\BilgisayarBakım\BilgisayarBakım\obj\Debug\Bilgisayar Bakım.csproj.CopyComplete
+C:\Users\Emre\OneDrive\Belgeler\Benim dosyalarım\Bilişim\Projeler\BilgisayarBakım\BilgisayarBakım\bin\Debug\Bilgisayar Bakım.exe.config
+C:\Users\Emre\OneDrive\Belgeler\Benim dosyalarım\Bilişim\Projeler\BilgisayarBakım\BilgisayarBakım\bin\Debug\Bilgisayar Bakım.exe
+C:\Users\Emre\OneDrive\Belgeler\Benim dosyalarım\Bilişim\Projeler\BilgisayarBakım\BilgisayarBakım\bin\Debug\Bilgisayar Bakım.pdb
+C:\Users\Emre\OneDrive\Belgeler\Benim dosyalarım\Bilişim\Projeler\BilgisayarBakım\BilgisayarBakım\bin\Debug\AntiVirusScanner.dll
+C:\Users\Emre\OneDrive\Belgeler\Benim dosyalarım\Bilişim\Projeler\BilgisayarBakım\BilgisayarBakım\bin\Debug\MetroFramework.dll
+C:\Users\Emre\OneDrive\Belgeler\Benim dosyalarım\Bilişim\Projeler\BilgisayarBakım\BilgisayarBakım\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Emre\OneDrive\Belgeler\Benim dosyalarım\Bilişim\Projeler\BilgisayarBakım\BilgisayarBakım\bin\Debug\AntiVirusScanner.xml
+C:\Users\Emre\OneDrive\Belgeler\Benim dosyalarım\Bilişim\Projeler\BilgisayarBakım\BilgisayarBakım\obj\Debug\Bilgisayar Bakım.csproj.AssemblyReference.cache
+C:\Users\Emre\OneDrive\Belgeler\Benim dosyalarım\Bilişim\Projeler\BilgisayarBakım\BilgisayarBakım\obj\Debug\Bilgisayar_Bakım.Form1.resources
+C:\Users\Emre\OneDrive\Belgeler\Benim dosyalarım\Bilişim\Projeler\BilgisayarBakım\BilgisayarBakım\obj\Debug\Bilgisayar_Bakım.form2.resources
+C:\Users\Emre\OneDrive\Belgeler\Benim dosyalarım\Bilişim\Projeler\BilgisayarBakım\BilgisayarBakım\obj\Debug\Bilgisayar_Bakım.Properties.Resources.resources
+C:\Users\Emre\OneDrive\Belgeler\Benim dosyalarım\Bilişim\Projeler\BilgisayarBakım\BilgisayarBakım\obj\Debug\Bilgisayar Bakım.csproj.GenerateResource.cache
+C:\Users\Emre\OneDrive\Belgeler\Benim dosyalarım\Bilişim\Projeler\BilgisayarBakım\BilgisayarBakım\obj\Debug\Bilgisayar Bakım.csproj.CoreCompileInputs.cache
+C:\Users\Emre\OneDrive\Belgeler\Benim dosyalarım\Bilişim\Projeler\BilgisayarBakım\BilgisayarBakım\obj\Debug\Bilgisayar Bakım.csproj.CopyComplete
+C:\Users\Emre\OneDrive\Belgeler\Benim dosyalarım\Bilişim\Projeler\BilgisayarBakım\BilgisayarBakım\obj\Debug\Bilgisayar Bakım.exe
+C:\Users\Emre\OneDrive\Belgeler\Benim dosyalarım\Bilişim\Projeler\BilgisayarBakım\BilgisayarBakım\obj\Debug\Bilgisayar Bakım.pdb
+C:\Users\Emre\OneDrive\Belgeler\a\Bilişim\Projeler\BilgisayarBakım\BilgisayarBakım\bin\Debug\Bilgisayar Bakım.exe.config
+C:\Users\Emre\OneDrive\Belgeler\a\Bilişim\Projeler\BilgisayarBakım\BilgisayarBakım\bin\Debug\Bilgisayar Bakım.exe
+C:\Users\Emre\OneDrive\Belgeler\a\Bilişim\Projeler\BilgisayarBakım\BilgisayarBakım\bin\Debug\Bilgisayar Bakım.pdb
+C:\Users\Emre\OneDrive\Belgeler\a\Bilişim\Projeler\BilgisayarBakım\BilgisayarBakım\bin\Debug\AntiVirusScanner.dll
+C:\Users\Emre\OneDrive\Belgeler\a\Bilişim\Projeler\BilgisayarBakım\BilgisayarBakım\bin\Debug\MetroFramework.dll
+C:\Users\Emre\OneDrive\Belgeler\a\Bilişim\Projeler\BilgisayarBakım\BilgisayarBakım\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Emre\OneDrive\Belgeler\a\Bilişim\Projeler\BilgisayarBakım\BilgisayarBakım\bin\Debug\AntiVirusScanner.xml
+C:\Users\Emre\OneDrive\Belgeler\a\Bilişim\Projeler\BilgisayarBakım\BilgisayarBakım\obj\Debug\Bilgisayar Bakım.csproj.AssemblyReference.cache
+C:\Users\Emre\OneDrive\Belgeler\a\Bilişim\Projeler\BilgisayarBakım\BilgisayarBakım\obj\Debug\Bilgisayar_Bakım.Form1.resources
+C:\Users\Emre\OneDrive\Belgeler\a\Bilişim\Projeler\BilgisayarBakım\BilgisayarBakım\obj\Debug\Bilgisayar_Bakım.form2.resources
+C:\Users\Emre\OneDrive\Belgeler\a\Bilişim\Projeler\BilgisayarBakım\BilgisayarBakım\obj\Debug\Bilgisayar_Bakım.Properties.Resources.resources
+C:\Users\Emre\OneDrive\Belgeler\a\Bilişim\Projeler\BilgisayarBakım\BilgisayarBakım\obj\Debug\Bilgisayar Bakım.csproj.GenerateResource.cache
+C:\Users\Emre\OneDrive\Belgeler\a\Bilişim\Projeler\BilgisayarBakım\BilgisayarBakım\obj\Debug\Bilgisayar Bakım.csproj.CoreCompileInputs.cache
+C:\Users\Emre\OneDrive\Belgeler\a\Bilişim\Projeler\BilgisayarBakım\BilgisayarBakım\obj\Debug\Bilgisayar Bakım.csproj.CopyComplete
+C:\Users\Emre\OneDrive\Belgeler\a\Bilişim\Projeler\BilgisayarBakım\BilgisayarBakım\obj\Debug\Bilgisayar Bakım.exe
+C:\Users\Emre\OneDrive\Belgeler\a\Bilişim\Projeler\BilgisayarBakım\BilgisayarBakım\obj\Debug\Bilgisayar Bakım.pdb
+E:\Kişisel\Projeler\BilgisayarBakım\BilgisayarBakım\obj\Debug\Bilgisayar Bakım.csproj.AssemblyReference.cache
+E:\Kişisel\Projeler\BilgisayarBakım\BilgisayarBakım\obj\Debug\Bilgisayar Bakım.exe
+E:\Kişisel\Projeler\BilgisayarBakım\BilgisayarBakım\obj\Debug\Bilgisayar Bakım.pdb
+E:\Kişisel\Projeler\BilgisayarBakım\BilgisayarBakım\bin\Debug\Bilgisayar Bakım.exe.config
+E:\Kişisel\Projeler\BilgisayarBakım\BilgisayarBakım\bin\Debug\Bilgisayar Bakım.exe
+E:\Kişisel\Projeler\BilgisayarBakım\BilgisayarBakım\bin\Debug\Bilgisayar Bakım.pdb
+E:\Kişisel\Projeler\BilgisayarBakım\BilgisayarBakım\bin\Debug\AntiVirusScanner.dll
+E:\Kişisel\Projeler\BilgisayarBakım\BilgisayarBakım\bin\Debug\MetroFramework.dll
+E:\Kişisel\Projeler\BilgisayarBakım\BilgisayarBakım\bin\Debug\MetroFramework.Fonts.dll
+E:\Kişisel\Projeler\BilgisayarBakım\BilgisayarBakım\bin\Debug\AntiVirusScanner.xml
+E:\Kişisel\Projeler\BilgisayarBakım\BilgisayarBakım\obj\Debug\Bilgisayar_Bakım.Form1.resources
+E:\Kişisel\Projeler\BilgisayarBakım\BilgisayarBakım\obj\Debug\Bilgisayar_Bakım.Properties.Resources.resources
+E:\Kişisel\Projeler\BilgisayarBakım\BilgisayarBakım\obj\Debug\Bilgisayar Bakım.csproj.GenerateResource.cache
+E:\Kişisel\Projeler\BilgisayarBakım\BilgisayarBakım\obj\Debug\Bilgisayar Bakım.csproj.CoreCompileInputs.cache
+E:\Kişisel\Projeler\BilgisayarBakım\BilgisayarBakım\obj\Debug\Bilgisay.EADF9D1B.Up2Date
